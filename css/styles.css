@@ -1,0 +1,49 @@
+h1{
+    background-color:orange;
+    text-align: center;
+    color:aliceblue;
+    font-style:normal;
+    
+}
+img{
+    width:50px;
+
+}
+footer{
+    background-color: black;
+    text-align: center;
+    color: aliceblue;
+    
+}
+
+.box1{
+    background-color: red;
+    color:white;
+    min-height: 100px;
+    text-align: center;
+}
+.box2{
+     background-color:green;
+    color:white;
+    min-height: 100px;
+    text-align: center;
+
+}
+.botton{
+    background-color: skyblue;
+}
+.box3{
+     background-color: blue;
+    color:white;
+    min-height: 100px;
+    text-align: center;
+}
+@media (max-width:650px){
+    body {
+        background-color:#b3f0ff;
+        color:#FFF;
+        font-family: "Comic Sans MS","Comic Sans",cursive;
+    }
+
+}
+
